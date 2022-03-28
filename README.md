@@ -1,3 +1,3 @@
 # Iakov-Kogan
 
-Here you can find my university theses.
+Here you can find latest version of my CV and my university theses.
